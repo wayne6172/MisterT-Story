@@ -43,6 +43,9 @@
     "clientPackageManager": "npm",
     "enableGradleEnterprise": false,
     "languages": ["en", "fr"],
-    "cypressCoverage": false
+    "cypressCoverage": false,
+    "herokuAppName": "mister-t-story",
+    "herokuDeployType": "jar",
+    "herokuJavaVersion": "11"
   }
 }
